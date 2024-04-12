@@ -5,7 +5,7 @@
 My goal is not just to improve my skills but to exceed expectations and make a significant impact in the tech industry.
 - 💞️  I am seeking an apprenticeship for my second year in Computer Science at IUT d'Orsay, with a schedule of 2 days at the company and 3 days at the university, starting in September 2024.
 - 📫 benouiranetaycir@gmail.com
-- ✨[my online portfolio](https://taycir-b.github.io/Portfolio-TaycirBen-Ouirane-Ang) English version
+- ✨[my online portfolio](https://taycir-b.github.io/Portfolio-Taycir-Ben-Ouirane-Ang) English version
 - ✨[my online portfolio](https://taycir-b.github.io/Portfolio-Taycir-Ben-Ouirane-FR) French version
 - 👥[my LinkedIn profile](https://www.linkedin.com/in/taycir-ben-ouirane-40a93a1a2/)
 
